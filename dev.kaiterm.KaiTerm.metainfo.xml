@@ -15,7 +15,7 @@
 
   <description>
     <p>
-      KaiTerm is a desktop connection manager for SSH-heavy workflows. It combines an xterm.js terminal workspace with a searchable connection tree, reusable secrets, scripted actions, local backup/restore tools, and optional KaiTerm Pro features for clusters, startup automation, advanced connection workflows, and encrypted sync.
+      KaiTerm is a desktop connection manager for SSH-heavy workflows. It combines an xterm.js terminal workspace with a searchable connection tree, reusable secrets, scripted actions, local backup/restore tools, clusters, capped fleet workflows, and optional KaiTerm Pro features for startup automation, advanced connection workflows, unlimited fleet workflows, AI, and encrypted sync.
     </p>
   </description>
 
