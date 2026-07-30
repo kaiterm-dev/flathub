@@ -4,7 +4,7 @@
 
   <name>KaiTerm</name>
 
-  <summary>Terminal manager for SSH, MOSH, SFTP, FTP, and local shells</summary>
+  <summary>Terminal manager for SSH, SFTP, FTP, and local shells</summary>
 
   <developer id="dev.kaiterm">
     <name>KaiTerm Developers</name>
